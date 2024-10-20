@@ -7,6 +7,8 @@
 ---
 
 **🔧 Skills and Technologies**:
+- Embedded Linux
+- Yocto
 - Embedded C, C++
 - STM32
 - CAN Protocol
